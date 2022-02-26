@@ -1,4 +1,4 @@
-### Olá! Eu sou o Vitor Merola! 👋
+### Hi, there! I'm Vitor Merola! 👋
 
 🔭 I’m currently working on RPA development using UiPath. I’m currently deeping learning the languages C# and VB.NET.
 
