@@ -1,6 +1,6 @@
 ### Hi, there! I'm Vitor Merola! 👋
 
-🔭 I’m currently working on RPA development using UiPath. I’m currently deeping learning the languages C# and VB.NET.
+I’m currently working on RPA development using UiPath and deeping learning the languages C# and VB.NET.
 
 <div align="center">
   <a href="https://github.com/vitormerola">
